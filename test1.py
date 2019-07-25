@@ -47,3 +47,5 @@ model.fit(x_train,y_train,epochs=5)
 
 #第五步。 evaluate 用于评估模型，返回的数值分别是损失和指标。
 model.evaluate(x_test,y_test)
+
+#台式机修改
